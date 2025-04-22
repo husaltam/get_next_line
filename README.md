@@ -23,16 +23,16 @@ Get Next Line is a 42 school project that teaches you about static variables, fi
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/get_next_line.git
+git clone https://github.com/husaltam/get_next_line.git
 cd get_next_line
 ```
 
-##Compile with your desired buffer size:
+## Compile with your desired buffer size:
 ```
 cc -Wall -Wextra -Werror -D BUFFER_SIZE=42 get_next_line.c get_next_line_utils.c
 ```
 ---
-##🛠 Usage
+## 🛠 Usage
 Creat your own test.c file like this one, or just uncomment the main function in `get_next_line.c`
 ```
 #include "get_next_line.h"
@@ -51,33 +51,33 @@ int main(void)
     return (0);
 }
 ```
-##🧪 Testing
+## 🧪 Testing
 The project includes a comprehensive test suite. Run tests with:
 ```
 cc -Wall -Wextra -Werror -D BUFFER_SIZE=1 get_next_line.c get_next_line_utils.c test.c -o test && ./test
 ```
 
 ---
-##📜 Documentation
+## 📜 Documentation
 Function Prototype
 ```
 char *get_next_line(int fd);
 ```
-###Parameters
+### Parameters
 `fd`: The file descriptor to read from
 
-###Return Value
+### Return Value
 - On success: Returns the read line (including '\n' if present)
 - On EOF or error: Returns NULL
 
-###🏆 Bonus
+### 🏆 Bonus
 The bonus part implements:
 
 - Multiple file descriptor management
 - Single static variable approach
 - Ultra-fast performance even with tiny buffer sizes
 
-##📚 Resources
+## 📚 Resources
 - 42 Docs
 - File Descriptors Explained
 - Understanding Static Variables
