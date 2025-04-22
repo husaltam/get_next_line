@@ -3,7 +3,6 @@
 **Read a line from a file descriptor with ease**
 
 ![GitHub code size](https://img.shields.io/github/languages/code-size/husaltam/get_next_line)
-![Lines of code](https://img.shields.io/tokei/lines/github/husaltam/get_next_line)
 
 ## 🌟 About
 
