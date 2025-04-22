@@ -70,7 +70,7 @@ char *get_next_line(int fd);
 - On success: Returns the read line (including '\n' if present)
 - On EOF or error: Returns NULL
 
-### 🏆 Bonus
+### 🏆 Bonus / To be added later...
 The bonus part implements:
 
 - Multiple file descriptor management
