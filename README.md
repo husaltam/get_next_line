@@ -2,7 +2,7 @@
 
 **Read a line from a file descriptor with ease**
 
-![GitHub code size](https://img.shields.io/github/languages/code-size/yourusername/get_next_line)
+![GitHub code size](https://img.shields.io/github/languages/code-size/husaltam/get_next_line)
 ![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/get_next_line)
 ![Lines of code](https://img.shields.io/tokei/lines/github/yourusername/get_next_line)
 
