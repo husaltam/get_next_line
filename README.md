@@ -6,7 +6,7 @@
 
 ## 🌟 About
 
-Get Next Line is a 42 school project that teaches you about static variables, file descriptors, and reading files in C. This function reads a file line by line, making it perfect for parsing files or reading standard input.
+Get Next Line is a 42 school project that is about static variables, file descriptors, and reading files in C. This function reads a file line by line, making it perfect for parsing files or reading standard input.
 
 ## 🚀 Features
 
